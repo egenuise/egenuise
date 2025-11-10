@@ -182,5 +182,6 @@ collaborative skills.
 
 ## Connect With Me
 +1 (520) 200-8383
+
 [egenuise@gmail.com](mailto:egenuise@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/egenuise)
