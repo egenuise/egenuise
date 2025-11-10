@@ -116,14 +116,14 @@ collaborative skills.
 - Dean’s List (Spring & Fall 2018, Spring 2021)  
 - President’s Scholarship Recipient  
 - IEEE Member  
-- GPA: **3.32**  
+- GPA: 3.32
 
 ##
 
 **Rio Salado Community College** – Dual Enrollment Coursework  
 *Tempe, AZ* | *May 2017*  
 - Earned 28 college credits during high school in Math, Science, and Engineering  
-- GPA: **3.21**  
+- GPA: 3.21
 
 ---
 
