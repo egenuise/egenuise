@@ -12,49 +12,49 @@ collaborative skills.
 
 ---
 
-### 🧰 Technical Skills
+### Technical Skills
 
-💻 Programming Languages: 
+- Programming Languages: 
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=alamy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-🔌 Communication Protocols:
+- Communication Protocols:
 ![I2C](https://img.shields.io/badge/I2C-009688?style=flat)
 ![SPI](https://img.shields.io/badge/SPI-009688?style=flat)
 ![UART](https://img.shields.io/badge/UART-009688?style=flat)
 ![GPIO](https://img.shields.io/badge/GPIO-009688?style=flat)
-![CAN](https://img.shields.io/badge/CAN-1565C0?style=flat)
-![I2S](https://img.shields.io/badge/I2S-1565C0?style=flat)
-![ADC/DAC](https://img.shields.io/badge/ADC%2FDAC-0288D1?style=flat)
+![CAN](https://img.shields.io/badge/CAN-009688?style=flat)
+![I2S](https://img.shields.io/badge/I2S-009688?style=flat)
+![ADC/DAC](https://img.shields.io/badge/ADC%2FDAC-009688?style=flat)
 
-⚙️ Microcontrollers / Microprocessors:
+- Microcontrollers / Microprocessors:
 ![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex-0091BD?style=flat&logo=arm&logoColor=white)
-![PIC](https://img.shields.io/badge/PIC%20Microchip-E95420?style=flat&logo=microchip&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-003366?style=flat)
+![Microchip PIC/AVR](https://img.shields.io/badge/Microchip%20PIC/AVR-CC092F?style=flat&logo=mega&logoColor=white)
+![NXP LPC](https://img.shields.io/badge/NXP%20LPC-6DACDE?style=flat&logo=nxp&logoColor=white)
+![STMicroelectronics STM32](https://img.shields.io/badge/STMicroelectronics%20STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 
-🧠 Operating Systems:
-![Bare-Metal](https://img.shields.io/badge/Bare--Metal-455A64?style=flat)
+- Operating Systems:
+![Bare-Metal](https://img.shields.io/badge/Bare--Metal-455A64?style=flat&logo=equinixmetal&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-4EAA25?style=flat&logo=clockify&logoColor=white)
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-🧰 Development Tools:
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- Development Tools:
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=reasonstudios&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=artstation&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![MPLAB X IDE](https://img.shields.io/badge/MPLAB%20X%20IDE-E95420?style=flat&logo=microchip&logoColor=white)
-
+![MPLAB X IDE](https://img.shields.io/badge/MPLAB%20X%20IDE-CC092F?style=flat&logo=metasploit&logoColor=white)
 
 ---
 
-### 💼 Work Experience
+### Work Experience
 ### **Engineer II – Client Systems**  ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white) ![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex-0091BD?style=flat&logo=arm&logoColor=white) ![Microchip PIC/AVR](https://img.shields.io/badge/Microchip%20PIC/AVR-CC092F?style=flat&logo=mega&logoColor=white) ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-E95420?style=flat&logo=ubuntu&logoColor=white) ![RTOS](https://img.shields.io/badge/RTOS-4EAA25?style=flat&logo=clockify&logoColor=white)
 
-📍 *Microchip Technology, Inc., Chandler, AZ*  
-📅 *Nov 2023 – Mar 2025*  
+*Microchip Technology, Inc., Chandler, AZ*  
+*Nov 2023 – Mar 2025*  
 - Contributed to embedded projects by debugging & reviewing C code in collaboration with team members & clients.
 - Gained hands-on experience with C programming & microcontroller platforms, including PIC & AVR.
 - Engaged in continuous learning through mentorship program, technical workshops, & attending function group meetings.
@@ -64,8 +64,8 @@ collaborative skills.
 
 ### **Engineer I – AMS Verification** ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-333333?style=flat&logo=verizon&logoColor=white) ![NXP LPC](https://img.shields.io/badge/NXP%20LPC-6DACDE?style=flat&logo=nxp&logoColor=white) ![RTOS](https://img.shields.io/badge/RTOS-4EAA25?style=flat&logo=clockify&logoColor=white)
 
-📍 *NXP Semiconductors, Chandler, AZ*
-📅 *Mar 2022 – Nov 2023*
+*NXP Semiconductors, Chandler, AZ*  
+*Mar 2022 – Nov 2023*
 - Responsible for writing SoC-level test cases with C/C++, Python, & VHDL for real-time automotive embedded systems.
 - Optimized & automated several processes within AMS verification workflow by writing Python scripts.
 - Implemented quality control procedures by performing fault injections on PMICs to detect adverse effects on other signals.
@@ -76,8 +76,8 @@ collaborative skills.
 
 ### **Embedded Software Engineer** ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Open-Source Hardware](https://img.shields.io/badge/Open--Source%20Hardware-00979D?style=flat&logo=opensourcehardware&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-0082FC?style=flat&logo=cloudflare&logoColor=white)
 
-📍 *Northern Arizona University ITS, Flagstaff, AZ*  
-📅 *Jan 2020 – Aug 2021*  
+*Northern Arizona University ITS, Flagstaff, AZ*  
+*Jan 2020 – Aug 2021*  
 - Designed & implemented smart devices across NAU campus to optimize energy usage.
 - Led & taught new IoT hires on OOP, open-source electronics platforms such as Arduino & Raspberry Pi, & networking.
 - Created UI to give visual representations of captured data, managed SQL databases through Microsoft Azure & Grafana.
@@ -88,8 +88,8 @@ collaborative skills.
 
 ### **Embedded Systems Engineer** ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Open-Source Hardware](https://img.shields.io/badge/Open--Source%20Hardware-00979D?style=flat&logo=opensourcehardware&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-1565C0?style=flat&logo=databricks&logoColor=white) ![Education](https://img.shields.io/badge/Education-1976D2?style=flat&logo=googlescholar&logoColor=white)
 
-📍 *Sidlinger Computer Co., Flagstaff, AZ*  
-📅 *Jan 2019 – Dec 2019*  
+*Sidlinger Computer Co., Flagstaff, AZ*  
+*Jan 2019 – Dec 2019*  
 - Worked on several embedded systems projects by utilizing Arduino, Raspberry Pi, & other open-source hardware platforms.
 - Gained advanced knowledge of embedded programming languages, MCU/MPU architectures, communication protocols, REST APIs, Linux, & networking.
 - Prototyped several products for aerospace, automotive, education, & home appliance sectors.
@@ -101,18 +101,18 @@ collaborative skills.
 
 ### **Coding Camp Counselor** ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Open-Source Hardware](https://img.shields.io/badge/Open--Source%20Hardware-00979D?style=flat&logo=opensourcehardware&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-1565C0?style=flat&logo=databricks&logoColor=white) ![Education](https://img.shields.io/badge/Education-1976D2?style=flat&logo=googlescholar&logoColor=white)
 
-📍 *Coconino Community College, Flagstaff, AZ*  
-📅 *Jun 2019 – Jul 2019*  
+*Coconino Community College, Flagstaff, AZ*  
+*Jun 2019 – Jul 2019*  
 - Developed curriculum for 2-week course; topics encompassed Python, C/C++, Linux, Raspberry Pi, Arduino, REST APIs, GPIO, communication protocols, circuit design, lab tools, & networking.
 - Taught 2-week Advanced Coding STEM Summer Camp held by Flagstaff Chamber of Commerce for 15 students aged 10-18.
 - Managed classroom while simultaneously making content digestible & engaging for age group.
 
 ---
 
-### 🎓 Education
+### Education
 
 **Northern Arizona University** – B.S. Electrical & Computer Engineering (Minor: Computer Science)  
-📍 *Flagstaff, AZ* | 🎓 *May 2021*  
+*Flagstaff, AZ* | *May 2021*  
 - Dean’s List (Spring & Fall 2018, Spring 2021)  
 - President’s Scholarship Recipient  
 - IEEE Member  
@@ -121,29 +121,29 @@ collaborative skills.
 ##
 
 **Rio Salado Community College** – Dual Enrollment Coursework  
-📍 *Tempe, AZ* | 🎓 *May 2017*  
+*Tempe, AZ* | *May 2017*  
 - Earned 28 college credits during high school in Math, Science, and Engineering  
 - GPA: **3.21**  
 
 ---
 
-### 🪪 Licenses & Certifications
+### Licenses & Certifications
 
-**FCC License:** Ham Radio Technician – *Call Sign: KJ7HWH*  
+- FCC License: Ham Radio Technician – *Call Sign: KJ7HWH*  
 
 ##
 
-### 🧩 Programming Certifications
+### Programming Certifications
 - Advanced C Programming  
 - Advanced Embedded C Tips, Tricks, and Cautions  
 - C Programming: Callbacks & Linked Lists  
 - dsPIC33CH Dual Core Programming and Debugging  
 - ARM® Cortex®-M Architecture Overview  
-- Syntax and Structure of C – *Simply C*  
+- Syntax and Structure of C – Simply C  
 
 ##
 
-### 🔌 Protocol Certifications
+### Protocol Certifications
 - CAN and CAN FD Protocol and Physical Layer Basics  
 - Debugging Serial Interfaces (I2C/SPI/UART)  
 - Practical I2C Implementation and Troubleshooting  
@@ -152,7 +152,7 @@ collaborative skills.
 
 ##
 
-### 🧠 Operating System Certifications
+### Operating System Certifications
 - Building Your Linux Development System  
 - FreeRTOS Simplified  
 - Buildroot & Yocto (Toaster) Development  
@@ -161,7 +161,7 @@ collaborative skills.
 
 ##
 
-### ⚙️ MCU Certifications
+### MCU Certifications
 - 8-bit PIC® MCU & AVR Peripheral Deep Dives  
 - dsPIC33C / dsPIC33CH Architecture and Debugging  
 - SAM & PIC32 Peripheral Deep Dive  
@@ -170,18 +170,17 @@ collaborative skills.
 
 ##
 
-### 🌐 Networking Certifications
+### Networking Certifications
 - Exploring Bluetooth® Low Energy (BLE): From First Steps to Final Application  
 
 ##
 
-### 🔧 Other
+### Other
 - Official Arduino Fundamentals Certification  
 
 ---
 
-## 🔗 Connect With Me
-📍 Gilbert, AZ  
-📧 [egenuise@gmail.com](mailto:egenuise@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/egenuise)  
-💻 [GitHub](https://github.com/egenuise)
+## Connect With Me
+[egenuise@gmail.com](mailto:egenuise@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/egenuise)  
+[GitHub](https://github.com/egenuise)
