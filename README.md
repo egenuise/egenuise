@@ -162,11 +162,11 @@ collaborative skills.
 ##
 
 ### MCU Certifications
-- 8-bit PIC® MCU & AVR Peripheral Deep Dives  
-- dsPIC33C / dsPIC33CH Architecture and Debugging  
-- SAM & PIC32 Peripheral Deep Dive  
-- ARM® Cortex®-M Overview  
-- AI & ML Concepts in Embedded Systems  
+- 8-bit PIC® MCU & AVR Peripheral Deep Dives
+- dsPIC33C / dsPIC33CH Architecture and Debugging
+- SAM & PIC32 Peripheral Deep Dive
+- ARM® Cortex®-M Overview
+- AI & ML Concepts in Embedded Systems
 
 ##
 
@@ -176,12 +176,4 @@ collaborative skills.
 ##
 
 ### Other
-- Official Arduino Fundamentals Certification  
-
----
-
-## Connect With Me
-+1 (520) 200-8383
-
-[egenuise@gmail.com](mailto:egenuise@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/egenuise)
+- Official Arduino Fundamentals Certification
