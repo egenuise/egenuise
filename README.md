@@ -62,7 +62,7 @@ collaborative skills.
 
 ##
 
-### **Engineer I – AMS Verification** ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-333333?style=flat&logo=verizon&logoColor=white) ![NXP LPC](https://img.shields.io/badge/NXP%20LPC-6DACDE?style=flat&logo=nxp&logoColor=white) ![RTOS](https://img.shields.io/badge/RTOS-4EAA25?style=flat&logo=clockify&logoColor=white)
+### **Engineer I – AMS Verification** ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-6A0DAD?style=flat&logo=verizon&logoColor=white) ![NXP LPC](https://img.shields.io/badge/NXP%20LPC-6DACDE?style=flat&logo=nxp&logoColor=white) ![RTOS](https://img.shields.io/badge/RTOS-4EAA25?style=flat&logo=clockify&logoColor=white)
 
 *NXP Semiconductors, Chandler, AZ*  
 *Mar 2022 – Nov 2023*
