@@ -129,7 +129,13 @@ collaborative skills.
 
 ### Licenses & Certifications
 
-- FCC License: Ham Radio Technician – *Call Sign: KJ7HWH*  
+### Licenses
+- FCC License: Ham Radio Technician – *Call Sign: KJ7HWH*
+
+##
+
+### Aviation Certifications
+- Principles of Software Safety Standards: An overview of DO-178C, IEC 61508, & ISO 26262
 
 ##
 
